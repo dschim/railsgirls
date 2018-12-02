@@ -16,7 +16,7 @@
 
  body { padding-top: 100px;
  color: #CDCDCD;
-font-family: 'Sacramento', cursive !important;}
+ font-family: 'Poiret One', cursive !important;}
  footer { margin-top: 100px;
  position: absolute;
 bottom:0;
@@ -30,7 +30,7 @@ left:0;}
   left: 0;
   position: absolute;}
   .ds-text {color:#CDCDCD !important;
-  font-family: 'Sacramento', cursive !important;}
+  font-family: 'Poiret One', cursive  !important;}
 .white-space { background:white;
 height:50px;
 width:100%;}
