@@ -15,7 +15,7 @@
  */
 
  body { padding-top: 100px;
- color: #CDCDCD;
+ color: #771600;
  font-family: 'Poiret One', cursive !important;}
  footer { margin-top: 100px;
  position: absolute;
@@ -24,8 +24,8 @@ width: 100%;
 left:0;}
  table, td, th { vertical-align: middle; border: none; }
  th { border-bottom: 1px solid #DDD; }
- .ds-navbar {background: #240B36}
- .ds-main {background: #011638;
+ .ds-navbar {background: #771601}
+ .ds-main {background: #007757;
   width: 100%;
   left: 0;
   position: absolute;}
